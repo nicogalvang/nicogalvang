@@ -12,9 +12,6 @@ Hi! I’m Nico! I’m a young programmer passionate about tech and always ready 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nicogalvang&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nicogalvang&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
